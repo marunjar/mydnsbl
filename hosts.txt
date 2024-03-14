@@ -28,3 +28,4 @@ fronius-se-iot-dm-2-telemetry.azure-devices.net
 fdmp.solarweb.com
 provisioning-lite.solarweb.com
 winatp-gw-weu.microsoft.com
+froniusseiot.blob.core.windows.net
