@@ -1,0 +1,30 @@
+# fonts.gstatic.com
+# fonts.googleapis.com
+# use.typekit.net
+services.gfe.nvidia.com
+safebrowsing.googleapis.com
+content-autofill.googleapis.com
+cc.sinch.com
+browser.events.data.msn.com
+nav.smartscreen.microsoft.com
+browser.pipe.aria.microsoft.com
+# a-msedge.net
+phantom.avira-vpn.com
+wpad.home.arpa
+eu-v20.events.data.microsoft.com
+fd.api.iris.microsoft.com
+ris.api.iris.microsoft.com
+query.prod.cms.rt.microsoft.com
+fronius-se-iot-dm-1.azure.devices.net
+fronius-se-iot-dm-1.azure-devices.net
+fronius-se-iot-dm-2.azure.devices.net
+fronius-se-iot-dm-2.azure-devices.net
+fronius-se-iot-dm-1.telemetry.azure.devices.net
+fronius-se-iot-dm-1.telemetry.azure-devices.net
+fronius-se-iot-dm-1-telemetry.azure-devices.net
+fronius-se-iot-dm-2.telemetry.azure.devices.net
+fronius-se-iot-dm-2.telemetry.azure-devices.net
+fronius-se-iot-dm-2-telemetry.azure-devices.net
+fdmp.solarweb.com
+provisioning-lite.solarweb.com
+winatp-gw-weu.microsoft.com
