@@ -29,3 +29,8 @@
 ||provisioning-lite.solarweb.com^
 ||winatp-gw-weu.microsoft.com^
 ||froniusseiot.blob.core.windows.net^
+||mobile.events.data.microsoft.com^
+||us-mobile.events.data.microsoft.com^
+||eu-mobile.events.data.microsoft.com^
+||au-mobile.events.data.microsoft.com^
+||jp-mobile.events.data.microsoft.com^
