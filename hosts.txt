@@ -6,6 +6,7 @@ safebrowsing.googleapis.com
 content-autofill.googleapis.com
 cc.sinch.com
 browser.events.data.msn.com
+browser.events.data.microsoft.com
 nav.smartscreen.microsoft.com
 browser.pipe.aria.microsoft.com
 # a-msedge.net
@@ -34,3 +35,5 @@ us-mobile.events.data.microsoft.com
 eu-mobile.events.data.microsoft.com
 au-mobile.events.data.microsoft.com
 jp-mobile.events.data.microsoft.com
+fwcdn.shelly.cloud
+updates.shelly.cloud
