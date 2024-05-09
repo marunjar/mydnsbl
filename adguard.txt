@@ -39,19 +39,3 @@
 ||fwcdn.shelly.cloud^
 ||updates.shelly.cloud^
 ||forfor123.com^
-##### allow these #####
-# tvthek.orf.at
-@@||sdk.privacy-center.org^$important
-# LoL
-@@||eu1.exponea.com^$important
-# Streaming
-@@||vidoza.net^$important
-@@||hexupload.net^$important
-@@||streamtape.com^$important
-# other
-@@||github.com^$important
-@@||xxxlutz.com^$important
-@@||private.zscaler.com^$important
-@@||prod.zpath.net^$important
-@@||wireguard.com^$important
-@@||tailscale.com^$important
