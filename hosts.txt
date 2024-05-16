@@ -35,6 +35,7 @@ us-mobile.events.data.microsoft.com
 eu-mobile.events.data.microsoft.com
 au-mobile.events.data.microsoft.com
 jp-mobile.events.data.microsoft.com
-fwcdn.shelly.cloud
+# fwcdn.shelly.cloud
 updates.shelly.cloud
 forfor123.com
+app.adjust.com
