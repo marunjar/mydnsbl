@@ -40,3 +40,4 @@
 ||updates.shelly.cloud^
 ||forfor123.com^
 ||app.adjust.com^$important
+||usage.freenas.org^

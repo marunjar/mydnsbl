@@ -16,17 +16,17 @@ eu-v20.events.data.microsoft.com
 fd.api.iris.microsoft.com
 ris.api.iris.microsoft.com
 query.prod.cms.rt.microsoft.com
-fronius-se-iot-dm-1.azure.devices.net
-fronius-se-iot-dm-1.azure-devices.net
-fronius-se-iot-dm-2.azure.devices.net
-fronius-se-iot-dm-2.azure-devices.net
+#fronius-se-iot-dm-1.azure.devices.net
+#fronius-se-iot-dm-1.azure-devices.net
+#fronius-se-iot-dm-2.azure.devices.net
+#fronius-se-iot-dm-2.azure-devices.net
 fronius-se-iot-dm-1.telemetry.azure.devices.net
 fronius-se-iot-dm-1.telemetry.azure-devices.net
 fronius-se-iot-dm-1-telemetry.azure-devices.net
 fronius-se-iot-dm-2.telemetry.azure.devices.net
 fronius-se-iot-dm-2.telemetry.azure-devices.net
 fronius-se-iot-dm-2-telemetry.azure-devices.net
-fdmp.solarweb.com
+#fdmp.solarweb.com
 provisioning-lite.solarweb.com
 winatp-gw-weu.microsoft.com
 froniusseiot.blob.core.windows.net
@@ -39,3 +39,4 @@ jp-mobile.events.data.microsoft.com
 updates.shelly.cloud
 forfor123.com
 app.adjust.com
+usage.freenas.org
