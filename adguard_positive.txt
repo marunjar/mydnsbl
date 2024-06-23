@@ -1,6 +1,6 @@
 ##### allow these #####
-# tvthek.orf.at
-@@||sdk.privacy-center.org^$important
+# tvthek.orf.at, on.orf.at
+@@||privacy-center.org^$important
 # LoL
 @@||eu1.exponea.com^$important
 # Streaming
@@ -14,3 +14,4 @@
 @@||prod.zpath.net^$important
 @@||wireguard.com^$important
 @@||tailscale.com^$important
+@@||steampowered.com^$important
