@@ -16,3 +16,4 @@
 @@||tailscale.com^$important
 @@||steampowered.com^$important
 @@||mailchi.mp^$important
+@@||t.co^$important
