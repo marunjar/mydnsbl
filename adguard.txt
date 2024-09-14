@@ -42,3 +42,4 @@
 ||app.adjust.com^$important
 ||usage.freenas.org^
 ||*.salesforceliveagent.com^
+||incidents.diagnostics-eudb.office.com^
