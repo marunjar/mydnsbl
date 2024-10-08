@@ -43,3 +43,4 @@
 ||usage.freenas.org^
 ||*.salesforceliveagent.com^
 ||incidents.diagnostics-eudb.office.com^
+||ipv6.msftconnecttest.com^

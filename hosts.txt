@@ -41,3 +41,4 @@ forfor123.com
 app.adjust.com
 usage.freenas.org
 incidents.diagnostics-eudb.office.com
+ipv6.msftconnecttest.com
