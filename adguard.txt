@@ -44,3 +44,9 @@
 ||*.salesforceliveagent.com^
 ||incidents.diagnostics-eudb.office.com^
 ||ipv6.msftconnecttest.com^
+||mycliplister.com^
+||mibc-gtp.bigdatapppp.com^
+||*-device-omada.tplinkcloud.com^
+||*-device-entry-omada.tplinkcloud.com^
+||*-device-omada-api.tplinkcloud.com^
+||*-device-api.tplinkcloud.com^

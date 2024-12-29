@@ -42,3 +42,5 @@ app.adjust.com
 usage.freenas.org
 incidents.diagnostics-eudb.office.com
 ipv6.msftconnecttest.com
+mycliplister.com
+mibc-gtp.bigdatapppp.com
