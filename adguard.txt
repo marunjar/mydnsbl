@@ -50,3 +50,4 @@
 ||*-device-entry-omada.tplinkcloud.com^
 ||*-device-omada-api.tplinkcloud.com^
 ||*-device-api.tplinkcloud.com^
+||ntp.msn.com^
