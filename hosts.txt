@@ -45,3 +45,4 @@ ipv6.msftconnecttest.com
 mycliplister.com
 mibc-gtp.bigdatapppp.com
 ntp.msn.com
+userlocation.googleapis.com
