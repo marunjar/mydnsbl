@@ -46,3 +46,4 @@ mycliplister.com
 mibc-gtp.bigdatapppp.com
 ntp.msn.com
 userlocation.googleapis.com
+dns.msftncsi.com
