@@ -52,4 +52,4 @@
 ||*-device-api.tplinkcloud.com^
 ||ntp.msn.com^
 ||userlocation.googleapis.com^
-||dns.msftncsi.com^
+||*.msftncsi.com^
