@@ -53,3 +53,5 @@
 ||ntp.msn.com^
 ||userlocation.googleapis.com^
 ||*.msftncsi.com^
+||amazon.com^$client=172.22.30.0/24
+||x.com^$client=172.22.30.0/24
