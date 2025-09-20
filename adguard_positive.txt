@@ -23,3 +23,5 @@
 @@||rethinkdns.com^$important
 @@||orbitcache.com^$important
 @@||leta.mullvad.net^$important
+@@||www.startpage.com^$important
+@@||www.qwant.com^$important
