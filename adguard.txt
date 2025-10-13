@@ -37,7 +37,7 @@
 ||au-mobile.events.data.microsoft.com^
 ||jp-mobile.events.data.microsoft.com^
 #||fwcdn.shelly.cloud^
-||updates.shelly.cloud^
+#||updates.shelly.cloud^
 ||forfor123.com^
 ||app.adjust.com^$important
 ||usage.freenas.org^
