@@ -10,6 +10,8 @@
 # work
 @@||miro.com^$important
 @@||sdk.split.io^$important
+# lg tv
+## @@||*.lgtvcommon.com^$important
 # other
 @@||github.com^$important
 @@||xxxlutz.com^$important
@@ -25,3 +27,4 @@
 @@||leta.mullvad.net^$important
 @@||startpage.com^$important
 @@||qwant.com^$important
+@@||dns.msftncsi.com^$important

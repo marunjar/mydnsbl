@@ -46,3 +46,5 @@ mibc-gtp.bigdatapppp.com
 ntp.msn.com
 userlocation.googleapis.com
 dns.msftncsi.com
+ybopo.com
+u.ybopo.com

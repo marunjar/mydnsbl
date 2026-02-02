@@ -55,3 +55,4 @@
 ||amazon.com^$client=172.22.30.0/24
 ||x.com^$client=172.22.30.0/24
 ||example.com^$client=172.22.30.0/24
+||ybopo.com^
