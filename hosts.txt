@@ -48,3 +48,4 @@ userlocation.googleapis.com
 dns.msftncsi.com
 ybopo.com
 u.ybopo.com
+www.baidu.com
