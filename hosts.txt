@@ -49,3 +49,4 @@ dns.msftncsi.com
 ybopo.com
 u.ybopo.com
 www.baidu.com
+use-application-dns.net
