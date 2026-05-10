@@ -63,3 +63,26 @@
 ||transfer.fronius.com^
 # Firmware Updates
 ||firmware-download.fronius.com^
+
+# Argeno
+
+# Device Provisioning Service (Updates, Solar.web)
+||provisioning.solarweb.com^
+# Solar.web data, Support data
+||device-fileuploads.solarweb.com^
+# Device certificate updates
+||cure-se.fronius.com^
+# Firmware Updates
+||firmware-download.fronius.com^
+# Software Update
+||updates.solarweb.com^
+# Storage
+||froniussestagweprod.blob.core.windows.net^
+# Solar.web (realtime data)
+||fronius-se-iot-ag-we.azure-devices.net^
+# Solar.web (realtime data)
+||fronius-se-iot-ag-ne.azure-devices.net^
+# Solar.web (realtime data)
+||fronius-se-iot-ag-telemetry-ne.azure-devices.net^
+# Solar.web (realtime data)
+||fronius-se-iot-ag-telemetry-we.azure-devices.net^
