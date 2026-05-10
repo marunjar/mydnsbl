@@ -1,0 +1,65 @@
+# GEN24 Symo / GEN24 Primo / Tauro / Verto
+
+# Device Provisioning Service (Updates, Solar.web)
+||provisioning.solarweb.com^
+# Fronius Tech Support (Remote Access)
+||sera-gen24.fronius.com^
+#Solar.web (realtime data, remote control, remote configuration)
+||fronius-se-iot.azure-devices.net^
+# Solar.web (realtime data, remote control, remote configuration)
+||fronius-se-iot-telemetry.azure-devices.net^
+# Solar.web (realtime data, remote control, remote configuration)
+||fronius-se-iot-ne.azure-devices.net^
+# Solar.web data, Support data
+||froniusseiot.blob.core.windows.net^
+# Solar.web data, Support data
+||device-fileuploads.solarweb.com^
+# Device certificate updates
+||cure-se.fronius.com^
+# Firmware Updates
+||firmware-download.fronius.com^
+# Solar.web (realtime data, remote control, remote configuration)
+||fronius-se-iot-telemetry-ne.azure-devices.net^
+# Solar.web data, Support data
+||froniusseiotneprod.blob.core.windows.net^
+# Solar.web data, Support data (legacy)
+||froniussestflduploadprod.file.core.windows.net^
+# Solar.web Remote Configuration
+||*.reco.fronius.com^
+
+# Symo / Primo / Eco / Symo Hybrid / Datamanager / Datamanager Box
+
+# Solar.web data, Support data
+||device-fileuploads.solarweb.com^
+# Solar.web data, Support data
+||froniusseiotneprod.blob.core.windows.net^
+# Solar.web (realtime data), Support Data
+||fdmp.solarweb.com^
+# Solar.web (realtime data, remote control)
+||fronius-se-iot-dm-1.azure-devices.net^
+||fronius-se-iot-dm-1.azure.devices.net^
+# Solar.web (realtime data, remote control)
+||fronius-se-iot-dm-1.telemetry.azure.devices.net^
+||fronius-se-iot-dm-1.telemetry.azure-devices.net^
+||fronius-se-iot-dm-1-telemetry.azure-devices.net^
+# Solar.web (realtime data, remote control
+||fronius-se-iot-dm-2.azure-devices.net^
+||fronius-se-iot-dm-2.azure.devices.net^
+# Solar.web (realtime data, remote control)
+||fronius-se-iot-dm-2.telemetry.azure.devices.net^
+||fronius-se-iot-dm-2.telemetry.azure-devices.net^
+||fronius-se-iot-dm-2-telemetry.azure-devices.net^
+# Solar.web data, Support data (legacy)
+||froniusseiot.blob.core.windows.net^
+# Device Provisioning Service (Updates, Solar.web)
+||provisioning-lite.solarweb.com^
+# Solar.web data, Support data
+||device-fileuploads-lite.solarweb.com^
+# Solar.web data, Support data (legacy)
+||froniussestflduploadprod.file.core.windows.net^
+# Firmware Updates
+||www3.fronius.com^
+# Firmware Updates
+||transfer.fronius.com^
+# Firmware Updates
+||firmware-download.fronius.com^
