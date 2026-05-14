@@ -33,9 +33,13 @@
 ||ipv6.msftconnecttest.com^
 ||mibc-gtp.bigdatapppp.com^
 ||*-device-omada.tplinkcloud.com^
+||*-device-omada.i.tplinkcloud.com
 ||*-device-entry-omada.tplinkcloud.com^
+||*-device-entry-omada.i.tplinkcloud.com^
 ||*-device-omada-api.tplinkcloud.com^
+||*-device-omada-api.i.tplinkcloud.com^
 ||*-device-api.tplinkcloud.com^
+||*-device-api.i.tplinkcloud.com^
 ||ntp.msn.com^
 ||userlocation.googleapis.com^
 ||*.msftncsi.com^
