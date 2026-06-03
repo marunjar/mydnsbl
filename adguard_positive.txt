@@ -28,5 +28,6 @@
 @@||startpage.com^$important
 @@||qwant.com^$important
 @@||dns.msftncsi.com^$important
+@@||content.eaton.com^$important
 # yoga
 @@||ctrk.klclick.com^$important

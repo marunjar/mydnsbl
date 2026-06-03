@@ -8,3 +8,4 @@
 ||time-g.netgear.com^$dnsrewrite=at.pool.ntp.org
 ||ntp1.aliyun.com^$dnsrewrite=at.pool.ntp.org
 ||ntp.msn.com^$dnsrewrite=at.pool.ntp.org
+||omada^$dnsrewrite=oc200.home.arpa
