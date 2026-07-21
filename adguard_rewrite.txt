@@ -1,11 +1,15 @@
 ||use-application-dns.net^$dnsrewrite=NXDOMAIN;;
 ||connectivitycheck.gstatic.com^$dnsrewrite=captiveportal.kuketz.de
-||time*.nist.gov^$dnsrewrite=at.pool.ntp.org
-||time.*.com^$dnsrewrite=at.pool.ntp.org
-||*.time.fronius.com^$dnsrewrite=at.pool.ntp.org
-||time.izatcloud.net^$dnsrewrite=at.pool.ntp.org
-||stdtime.gov.hk^$dnsrewrite=at.pool.ntp.org
-||time-g.netgear.com^$dnsrewrite=at.pool.ntp.org
-||ntp1.aliyun.com^$dnsrewrite=at.pool.ntp.org
-||ntp.msn.com^$dnsrewrite=at.pool.ntp.org
 ||omada^$dnsrewrite=oc200.home.arpa
+# NTP
+||time*.nist.gov^$dnsrewrite=3.at.pool.ntp.org
+||0.time.*.com^$dnsrewrite=0.at.pool.ntp.org
+||1.time.*.com^$dnsrewrite=1.at.pool.ntp.org
+||2.time.*.com^$dnsrewrite=2.at.pool.ntp.org
+||3.time.*.com^$dnsrewrite=3.at.pool.ntp.org
+||time.*.com^$dnsrewrite=0.at.pool.ntp.org
+||time-g.netgear.com^$dnsrewrite=1.at.pool.ntp.org
+||ntp1.aliyun.com^$dnsrewrite=2.at.pool.ntp.org
+||ntp.msn.com^$dnsrewrite=3.at.pool.ntp.org
+||time.izatcloud.net^$dnsrewrite=0.at.pool.ntp.org
+||stdtime.gov.hk^$dnsrewrite=1.at.pool.ntp.org
