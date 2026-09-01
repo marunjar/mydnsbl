@@ -29,5 +29,6 @@
 @@||qwant.com^$important
 @@||dns.msftncsi.com^$important
 @@||*.eaton.com^$important
+@@||hagezi-mirror.dnsbunker.org^$important
 # yoga
 @@||ctrk.klclick.com^$important
