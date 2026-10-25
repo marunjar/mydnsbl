@@ -17,7 +17,7 @@
 # Device certificate updates
 ||cure-se.fronius.com^
 # Firmware Updates
-||firmware-download.fronius.com^
+#||firmware-download.fronius.com^
 # Solar.web (realtime data, remote control, remote configuration)
 ||fronius-se-iot-telemetry-ne.azure-devices.net^
 # Solar.web data, Support data
